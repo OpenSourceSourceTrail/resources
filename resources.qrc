@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="window/logo.png">app/data/gui/window/logo.png</file>
+    <file alias="icon/cpp_icon.png">app/data/gui/icon/cpp_icon.png</file>
+    <file alias="icon/c_icon.png">app/data/gui/icon/c_icon.png</file>
+    <file alias="icon/empty_icon.png">app/data/gui/icon/empty_icon.png</file>
+</qresource>
+</RCC>
